@@ -24,7 +24,6 @@ html {
 body{
     margin: 0;
     font-size: 18px;
-    background-color: var(--background);
 }
 
 /* ------------------------ ctn ------------------------ */
@@ -32,6 +31,7 @@ body{
     padding-top: 70px;
     padding-left: var(--paddingLR);
     padding-right: var(--paddingLR);
+    background-color: var(--background);
 }
 .ctn__header{
     color: var(--primary);
