@@ -250,12 +250,14 @@ a{
 .contact__info i{
     margin-right: 5px;
 }
+.ctn__contact{
+    padding-bottom: 50px;
+}
 
 /* ------------------------ footer ------------------------ */
 .ctn__footer{
     padding-top: 10px;
     padding-bottom: 10px;
-    margin-top: 50px;
     text-align: center;
     background-color: var(--note);
 }
