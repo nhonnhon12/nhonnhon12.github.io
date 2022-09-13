@@ -210,6 +210,9 @@ body{
     font-size: 1.3em;
     color: var(--primary);
 }
+.pitem__header i{
+    font-size: .7em;
+}
 .pitem__time{
     font-size: 0.8em;
     color: var(--primary);
